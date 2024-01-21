@@ -10,7 +10,7 @@ fs.mkdir(
   },
   (err) => {
     if (err) throw err;
-    console.log('The folder file-copy created successfully\n');
+    console.log('Folder "file-copy" created successfully\n');
   },
 );
 
